@@ -1,0 +1,4 @@
+msql -- 5.5
+jdk -- 1.7
+>sqlyog communicator -- 12
+apache --  7.0
